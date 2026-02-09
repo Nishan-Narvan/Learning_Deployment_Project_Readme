@@ -1,4 +1,4 @@
-#  ☁️  Manual Cloud Deployment & Infrastructure Fundamentals**
+#  ☁️  Manual Cloud Deployment & Infrastructure Fundamentals
 
 > The application itself is intentionally simple — the primary goal was to learn **deployment, networking, and server fundamentals**.
 
