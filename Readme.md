@@ -32,7 +32,7 @@ User Browser ---> Custom Domain (DNS) ---> Nginx (Reverse Proxy + SSL) ---> Web 
 Static Images:
 User → BunnyCDN → Cached Images
 
-<h2 align="center">📸 Deployment Proof</h2>
+<h2 align="center"> Deployment Proof</h2>
 
 <div align="center">
   <img width="800"  alt="1" src="https://github.com/user-attachments/assets/df56a0cd-e65d-44e3-b6bf-f8a97c1f548f" />
@@ -54,12 +54,12 @@ User → BunnyCDN → Cached Images
   <p><em>Fig 4: Caching being used in CDN [Usage Stats]</em></p>
 
    <img width="800"  alt="5final" src="https://github.com/user-attachments/assets/af0cd806-f027-479c-8da8-14eed5d2aa0d" />
-  <p><em>Fig 5: All 3: AWS Instance + BunnyNet CDN + Vercel  attached to my custom domain[DNS Routing] +</em></p>
+  <p><em>Fig 5: All 3: AWS Instance + BunnyNet CDN + Vercel  attached to my custom domain[DNS Routing] </em></p>
 </div>
 
-<img width="800"  alt="6" src="https://github.com/user-attachments/assets/3572b526-5c77-4fa6-a1e2-68a7b79a82a7" />
- <p><em>Fig 6: Usage Hours of Instance running in AWS Dashboard</em></p>
-</div>
+   <img width="800"  alt="6" src="https://github.com/user-attachments/assets/3572b526-5c77-4fa6-a1e2-68a7b79a82a7" />
+   <p><em>Fig 6: Usage Hours of Instance running in AWS Dashboard</em></p>
+ </div>
 
 <br />
 ## 🔍 Component Breakdown (What it does → What I learned)
