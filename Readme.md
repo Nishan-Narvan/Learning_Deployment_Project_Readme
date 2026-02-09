@@ -37,24 +37,28 @@ User → BunnyCDN → Cached Images
 <div align="center">
   <img width="800"  alt="1" src="https://github.com/user-attachments/assets/df56a0cd-e65d-44e3-b6bf-f8a97c1f548f" />
 
-  <p><em>Fig 1: Production DNS routing table showing the split between AWS EC2 (Origin) and BunnyCDN (Edge).</em></p>
+  <p><em>Fig 1: [BunnyNet] CDN Dashboard.</em></p>
 
  
 
    <img width="800"  alt="2" src="https://github.com/user-attachments/assets/d7f3c115-39f3-4152-9b65-f66d7de568b5" />
-  <p><em>Fig 1: Production DNS routing table showing the split between AWS EC2 (Origin) and BunnyCDN (Edge).</em></p>
+  <p><em>Fig 2: Assests[Images] being stored in CDN storage</em></p>
 
    
 
    <img width="800"  alt="3" src="https://github.com/user-attachments/assets/966f2a95-9e79-4a0d-bc9c-d1fd868f5a26" />
-  <p><em>Fig 1: Production DNS routing table showing the split between AWS EC2 (Origin) and BunnyCDN (Edge).</em></p>
+  <p><em>Fig 3: Linked HostNames in BunnyNet</em></p>
 
    
    <img width="800"  alt="4" src="https://github.com/user-attachments/assets/bfcbffc7-1c80-40d6-95e7-43fadb7d3a45" />
-  <p><em>Fig 1: Production DNS routing table showing the split between AWS EC2 (Origin) and BunnyCDN (Edge).</em></p>
+  <p><em>Fig 4: Caching being used in CDN [Usage Stats]</em></p>
 
    <img width="800"  alt="5final" src="https://github.com/user-attachments/assets/af0cd806-f027-479c-8da8-14eed5d2aa0d" />
-  <p><em>Fig 1: Production DNS routing table showing the split between AWS EC2 (Origin) and BunnyCDN (Edge).</em></p>
+  <p><em>Fig 5: All 3: AWS Instance + BunnyNet CDN + Vercel  attached to my custom domain[DNS Routing] +</em></p>
+</div>
+
+<img width="800"  alt="6" src="https://github.com/user-attachments/assets/3572b526-5c77-4fa6-a1e2-68a7b79a82a7" />
+ <p><em>Fig 6: Usage Hours of Instance running in AWS Dashboard</em></p>
 </div>
 
 <br />
